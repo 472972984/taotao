@@ -15,9 +15,9 @@
 		<webVersion>3.0</webVersion>
 	</properties>
 
-	<dependencies>
+	<dependencies>   
 	
-	<!-- 添加对 taotao-manageer-dao 的依赖  我在这里添加修改测试git-->
+	<!-- 添加对 taotao-manageer-dao 的依赖  我在这里添加修改测试git   test-->
 		<dependency>
 			<groupId>com.taotao</groupId>
 			<artifactId>taotao-manager-dao</artifactId>
